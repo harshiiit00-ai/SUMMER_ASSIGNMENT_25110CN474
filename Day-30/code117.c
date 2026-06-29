@@ -29,7 +29,7 @@ int main() {
                 printf("Enter Marks: ");
                 scanf("%f", &students[count].marks);
                 count++;
-                printf("✅ Record added successfully!\n");
+                printf("Record added successfully!\n");
                 break;
 
             case 2:
